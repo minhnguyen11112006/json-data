@@ -4,25 +4,25 @@
       "id": 1,
       "username": "user1",
       "email": "user1@example.com",
-      "desc": "Yeu thich du lich va nhiep anh.",
+      "desc": "Yêu thích du lịch và nhiếp ảnh.",
       "avatar_url": "https://i.pravatar.cc/300?img=1",
-      "hobby": "Chup anh"
+      "hobby": "Chụp ảnh"
     },
     {
       "id": 2,
       "username": "user2",
       "email": "user2@example.com",
-      "desc": "Thich doc sach va lap trinh.",
+      "desc": "Thích đọc sách và lập trình.",
       "avatar_url": "https://i.pravatar.cc/300?img=2",
-      "hobby": "Lap trinh"
+      "hobby": "Lập trình"
     },
     {
       "id": 3,
       "username": "user3",
       "email": "user3@example.com",
-      "desc": "Dam me the thao va am nhac.",
+      "desc": "Đam mê thể thao và âm nhạc.",
       "avatar_url": "https://i.pravatar.cc/300?img=3",
-      "hobby": "Choi guitar"
+      "hobby": "Chơi guitar"
     }
   ]
 }
